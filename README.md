@@ -3,7 +3,7 @@ ios-demo-download
 
 In order to be considered for the iOS position, you mush complete the following steps.
 
-The download demo requirement:
+The download demo requirement:<br>
 1. 3 download tasks at same time
 2. input is one http url
 3. add/delete download task
